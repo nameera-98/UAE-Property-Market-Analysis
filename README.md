@@ -34,3 +34,16 @@ UAE Real Estate Market Analysis using Power BI – Developed an Interactive dash
 10. **Property Developer Analysis:** Analyzed property distribution, ready and off-plan properties, and demand across different areas and property types.
 
 11. **Insights and Analysis:** Used the dashboards to identify property market patterns and support data-driven decisions.
+
+
+
+## Dashboard Preview
+
+### Overview
+![Overview](overview.png)
+
+### Investor Analysis
+![Investor Analysis](investor-analysis.png)
+
+### Buyer Analysis
+![Buyer Analysis](buyer-analysis.png)
