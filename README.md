@@ -11,3 +11,26 @@ UAE Real Estate Market Analysis using Power BI – Developed an Interactive dash
 - Dashboard Development
 - Real Estate Market Analysis
 
+## Project Steps
+
+1. **Data Preparation:** Imported the UAE real estate dataset into Power BI and reviewed the data.
+
+2. **Data Cleaning:** Used Power Query to clean and transform the data for analysis.
+
+3. **Data Modeling:** Organized the data and prepared it for reporting.
+
+4. **DAX Measures:** Created measures to calculate key metrics such as average property price and property counts.
+
+5. **Dashboard Development:** Designed interactive dashboards with KPIs, charts, and slicers.
+
+6. **Executive Summary:** Analyzed overall property prices, popular property types, and market trends.
+
+7. **Investor Analysis:** Explored property prices and availability across different areas and property types.
+
+8. **Buyer Analysis:** Analyzed average property prices, affordable areas, and prices by property type and number of bedrooms.
+
+9. **Real Estate Company Analysis:** Examined property listings, average prices, property types, and furnishing status.
+
+10. **Property Developer Analysis:** Analyzed property distribution, ready and off-plan properties, and demand across different areas and property types.
+
+11. **Insights and Analysis:** Used the dashboards to identify property market patterns and support data-driven decisions.
