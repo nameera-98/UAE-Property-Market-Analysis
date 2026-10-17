@@ -44,7 +44,11 @@ UAE Real Estate Market Analysis using Power BI – Developed an Interactive dash
 
 
 ### Investor Analysis
-![Investor Analysis](investor-analysis.png)
+<img width="1357" height="776" alt="real estate investor" src="https://github.com/user-attachments/assets/06efe795-b2e2-4e10-ba59-da74ad3eb6f3" />
+
 
 ### Buyer Analysis
-![Buyer Analysis](buyer-analysis.png)
+<img width="1322" height="775" alt="buyer" src="https://github.com/user-attachments/assets/cc0dba54-0035-4159-b306-babb0ead939f" />
+
+###
+
