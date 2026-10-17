@@ -40,7 +40,8 @@ UAE Real Estate Market Analysis using Power BI – Developed an Interactive dash
 ## Dashboard Preview
 
 ### Overview
-"C:\Users\nameera\Pictures\Screenshots\real estate overview.png"
+<img width="1357" height="767" alt="real estate overview" src="https://github.com/user-attachments/assets/4c2f04b9-479f-404b-a0b0-13299df888fb" />
+
 
 ### Investor Analysis
 ![Investor Analysis](investor-analysis.png)
